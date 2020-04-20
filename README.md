@@ -26,6 +26,7 @@
   <li><b>Face Detector - HMS Core </b> <a href="https://github.com/Rodrigolara05/Face-Detector-App" target="_blank">[Github]</a> 
    - <a href="https://youtube.com/CodigoFuente" target="_blank">[Youtube]</a></li>
 </ol>
+
 ## Autor ✒️
 
 * **Rodrigo Max Lara Camarena** -  [Linkedin](https://www.linkedin.com/in/rodrigolara05)
